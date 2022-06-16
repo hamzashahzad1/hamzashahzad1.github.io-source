@@ -18,8 +18,8 @@ highlight_name: true
 # - Blockchain
 role: PhD CS student
 organizations:
-- name: University of California, Santa Cruz
 - name: Baskin School of Engineering
+- name: University of California, Santa Cruz
   # url: https://www.stanford.edu/
 social:
 - icon: envelope
