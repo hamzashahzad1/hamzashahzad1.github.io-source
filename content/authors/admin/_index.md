@@ -19,8 +19,9 @@ highlight_name: true
 role: PhD CS student
 organizations:
 - name: Baskin School of Engineering
+  url: "https://engineering.ucsc.edu/"
 - name: University of California, Santa Cruz
-  # url: https://www.stanford.edu/
+  url: https://www.ucsc.edu/
 social:
 - icon: envelope
   icon_pack: fas
